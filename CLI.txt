@@ -1,0 +1,1 @@
+export PICO_SDK_PATH=/Users/jerrywang/repos/pico-sdk
